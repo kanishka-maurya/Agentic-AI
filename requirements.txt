@@ -3,3 +3,4 @@ phidata
 python-dotenv
 groq
 yfinance
+streamlit
