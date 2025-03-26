@@ -12,8 +12,8 @@ This project is a **Streamlit-based AI application** that integrates **financial
 ## 🛠️ Installation
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/financial-web-agent.git
-cd financial-web-agent
+git clone https://github.com/your-repo/Agentic-AI.git
+cd Agentic-AI
 ```
 
 ### **2. Create a Virtual Environment (Optional but Recommended)**
